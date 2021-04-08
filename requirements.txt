@@ -1,4 +1,4 @@
-Django==2.2.9
+Django==2.2.20
 entrypoints==0.3
 Faker==3.0.0
 flake8==3.7.9
